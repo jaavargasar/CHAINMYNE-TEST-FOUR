@@ -43,3 +43,5 @@ node .\populateDatabase.js
 This will insert the seedData into the database.
 
 I use the client called MongoDBCompass to be able to see the databases, the information inserted. You can use this or other third party
+
+I try to put the minor comments inside the code, 'Cause I believe the code should talk by itself and be ready to be understood by anyone, so it can readable and organized.
